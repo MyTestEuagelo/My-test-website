@@ -4,11 +4,11 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="assets/stream_jpg.jpg" alt="AgentBreeder publication">
+        <img src="assets/test_path.jpg" alt="AgentBreeder publication">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="/My-test-website/docs/projects/Agent/index.html" class="publication-link">
+            <a href="/projects/Agent/index.html" class="publication-link">
                 AgentBreeder: Mitigating the AI Safety Impact of Multi-Agent Scaffolds via Self-Improvement
             </a>
         </h3>
