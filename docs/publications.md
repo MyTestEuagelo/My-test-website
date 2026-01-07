@@ -8,7 +8,7 @@
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="/docs/projects/Agent/index.html" class="publication-link">
+            <a href="/My-test-website/docs/projects/Agent/index.html" class="publication-link">
                 AgentBreeder: Mitigating the AI Safety Impact of Multi-Agent Scaffolds via Self-Improvement
             </a>
         </h3>
