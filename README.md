@@ -1,7 +1,7 @@
 # Portfolio
 
 My personal website.
-
+$x^2$
 **Live site:** [https://mytesteuagelo.github.io/back-up-site/](https://mytesteuagelo.github.io/back-up-site/)
 
 ## Preview
@@ -21,3 +21,4 @@ python -m http.server 8000 -d docs/
 - `docs/script.js` - Functionality
 
 Inspired by [astro-theme-cactus](https://astro-cactus.chriswilliams.dev/)
+
